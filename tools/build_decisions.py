@@ -15,6 +15,7 @@ import sys
 sys.path.insert(0, "tools")
 from common import load_sentences, speech_intervals, speech_seconds, tc, f2s
 from decisions_spec import KEEP, CUTS, ACTS
+from keeps import snapped_keeps, MIN_KEEP as _MK, S_START, S_END
 
 MIN_KEEP = 4.0
 GAP_THRESHOLD = 8.0
@@ -24,8 +25,6 @@ TL_END = f2s(139140)  # 5803.30s, the last timeline frame
 
 SENTS = load_sentences()
 MERGED = speech_intervals()
-S_START = sorted(s["start"] for s in SENTS)
-S_END = sorted(s["end"] for s in SENTS)
 
 ACT_SPANS = [(1, 0.0, 427.0), (2, 427.0, 1097.0), (3, 1097.0, 2202.0),
              (4, 2202.0, 3907.0), (5, 3907.0, TL_END)]
@@ -68,38 +67,8 @@ def row(rid, act, tier, a, b, reason):
                 text=text_for(a, b), reason=reason, _a=a, _b=b)
 
 
-warnings = []
-
-# ---------- 1. kept segments, snapped to sentence boundaries ----------
-# The cold open (act 0) is sourced from inside act 4's span, so de-overlapping
-# has to run in TIMELINE order, not in list order.
-staged = []
-for rid, act, tier, sh, eh, reason in KEEP:
-    a, b = snap_start(sh), snap_end(eh)
-    if b <= a:
-        later = [e for e in S_END if e > a]
-        b = later[0] if later else a + MIN_KEEP
-        warnings.append("%s: snapped range inverted, extended to the next sentence end" % rid)
-    staged.append([rid, act, tier, a, b, reason])
-
-staged.sort(key=lambda r: (r[3], r[4]))
-prev_end = None
-for r in staged:
-    rid, act, tier, a, b, reason = r
-    if prev_end is not None and a < prev_end - 1e-6:
-        nxt = [s for s in S_START if s >= prev_end - 1e-6]
-        a = nxt[0] if nxt else prev_end
-        warnings.append("%s: start pulled to %s to clear the previous segment" % (rid, tc(a)))
-    if b - a < MIN_KEEP:
-        cand = [e for e in S_END if e >= a + MIN_KEEP]
-        if cand:
-            warnings.append("%s: %.2fs under the %.0fs minimum, extended to the next sentence end"
-                            % (rid, b - a, MIN_KEEP))
-            b = cand[0]
-    r[3], r[4] = a, b
-    prev_end = b
-
-keeps = [tuple(r) for r in staged]
+# ---------- 1. kept segments (shared with phase 2) ----------
+keeps, warnings = snapped_keeps(KEEP)
 
 rows = [row(rid, act, tier, a, b, reason) for rid, act, tier, a, b, reason in keeps]
 

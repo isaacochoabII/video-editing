@@ -26,3 +26,14 @@ the sequence, and the sequence starts at zero, so no offset is applied.
 * `build/transcript_readable.txt` — annotated transcript used to make the calls
 
 Phase 2 (writing the FCP7 XML) is deliberately **not** run here.
+
+## Phase 2 — `PREMIUM_GOLF_TOURNAMENT_CUT.xml` + `cut_report.md`
+
+    python3 tools/build_xml.py      # writes the cut XML and the report
+    python3 tools/validate_xml.py   # 30 independent checks against the source
+
+* `tools/keeps.py` — the snapping shared by both phases, so the XML can only ever
+  be built from the exact ranges that appear in `decisions.csv`
+* `tools/build_xml.py` — cut-point placement, source-clip mapping, XML emission
+* `tools/validate_xml.py` — structure, timeline continuity, A/V mirroring, source
+  media range, file-path fidelity, id/link integrity, ordering
