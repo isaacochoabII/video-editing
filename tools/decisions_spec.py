@@ -250,17 +250,25 @@ KEEP = [
   "Lands the whole running thread of the crew being terrible at golf: 'That was bad. That was also bad. Let's try again. See, I'm not a golfer.'"),
  ("K160", 5, "MUST", 4465, 4499,
   "Dinner speech opens by paying off act 1's problem: 'we thought we were going to have a shotgun. And guess what? We didn't. Thanks to the team for having reacted that fast.'"),
- ("K161", 5, "MUST", 4501, 4557,
-  "The origin story told back to the room - 'mind if I organise a game of golf with a few friends' turning into a tournament of more than eight people. Long block, and it earns the length."),
- ("K162", 5, "SHOULD", 4557, 4590,
-  "'That describes us very well at Premium' - the same escalation applied to the business, now in six provinces."),
- ("K163", 5, "MUST", 4597, 4622,
-  "Genuine news, announced live: the Ottawa division's first year and last week's Montreal acquisition."),
- ("K164", 5, "SHOULD", 4622, 4647,
-  "Callback to act 4 from the podium: 'You also got to see my judo team today. Who got thrown around a little bit.'"),
- ("K165", 5, "SHOULD", 4647, 4685,
-  "'Judo is a big, big part of who I am, and what happened to me in the past' - the personal version of what act 4 discovered on the course."),
- ("K166", 5, "MUST", 4685, 4718,
+ # Same problem as K163-K166: the end hint here reached past a 6.6s applause gap,
+ # so these two rows abutted and played as one 88s block. Split at the applause.
+ ("K161", 5, "MUST", 4501.96, 4550.88,
+  "The origin story told back to the room - 'mind if I organise a game of golf with a few friends' turning into a tournament of more than eight people. Ends on 'Thank you, Jeremiah' into applause."),
+ ("K162", 5, "SHOULD", 4557.44, 4589.56,
+  "'That describes us very well at Premium' - the same escalation applied to the business, from one division to caulking, fireproofing and drywall across six provinces."),
+ # K163-K166 were four rows that abutted exactly, so phase 2 played them as one
+ # unbroken 114s block. Split into four beats at the only boundaries the audio
+ # actually offers: a 6.4s applause gap, a 5.3s gap, and the single 400ms pause
+ # in the middle of the speech. Everything between 01:17:49 and 01:18:26 is
+ # continuous - no inter-sentence gap there is wider than 140ms - so the cuts
+ # below are the only ones available without slicing into a word.
+ ("K163", 5, "MUST", 4597.44, 4616.44,
+  "Genuine news, announced live: the Ottawa division's first year and last week's Montreal acquisition, buttoned with 'Thank you'. Ends into applause."),
+ ("K164", 5, "SHOULD", 4622.84, 4629.56,
+  "Short callback to act 4 from the podium: 'You also got to see my judo team here today. Who got thrown around a little bit.' Deliberately brief between two longer blocks."),
+ ("K165", 5, "SHOULD", 4643.72, 4679.16,
+  "'Judo is a big, big part of who I am, and what happened to me in the past' - the personal version of what act 4 discovered on the course, through Judo Canada, Jessica Clinch and the Otoshi club with Malcolm."),
+ ("K166", 5, "MUST", 4685.21, 4711.24,
   "The emotional core: sponsoring Judo Quebec, and why - 'helping kids, giving them a way of life and keeping them out of the streets, something very close to my heart.'"),
  ("K167", 5, "MUST", 4718, 4727,
   "'I hope that this tournament is going to become an annual tournament.' The forward-looking beat."),
@@ -284,9 +292,11 @@ KEEP = [
   "The winner refusing the donated prize and taking the hat instead."),
  ("K177", 5, "SHOULD", 5035, 5056,
   "Same guy wins twice: 'You want a second hat?... You want a second cooler? At least give it to your buddy next door.'"),
- ("K178", 5, "MUST", 5061, 5085,
-  "The payoff the whole day has been asking about - the winning team announced."),
- ("K179", 5, "MUST", 5086, 5111,
+ # Third instance of the same thing: the end hint reached past a 3.0s applause
+ # gap, merging these into one 51s block. Split at the applause.
+ ("K178", 5, "MUST", 5061.51, 5081.91,
+  "The payoff the whole day has been asking about - the winning team announced, ending on 'Congratulations' into applause."),
+ ("K179", 5, "MUST", 5086.75, 5111,
   "'Seven strokes better than the second best.' / 'I don't know what that means.' / 'That's just bragging rights.' / 'No, you guys don't win a prize.'"),
  ("K180", 5, "OPTIONAL", 5135, 5153,
   "The raffle begins - what's in the first prize, 'I'll pick a ticket, I won't look, I promise.'"),
@@ -338,4 +348,9 @@ CUTS = [
  ("X020", 5, 5176, 5378, "Long stretch of raffle numbers being read out and claimed. Repetitive - keeping only the reactions that land."),
  ("X021", 5, 5444, 5528, "More raffle number reading."),
  ("X022", 5, 5604, 5706, "More raffle number reading, up to the grand prize."),
+ ("X027", 5, 5081.91, 5086.75, "Applause after the winning team is announced, plus a stray 'Oh yeah'. Trimmed so the announcement and the score reveal are two segments."),
+ ("X026", 5, 4550.88, 4557.44, "Applause after the thank-you to Jeremiah. Trimmed so the origin story and the 'that describes us very well' beat become two segments instead of one 88s block."),
+ ("X023", 5, 4616.44, 4622.84, "Applause after the acquisition announcement. Good sound, but 6.4s of it is a hole - trimmed to make the cut into the judo callback."),
+ ("X024", 5, 4629.56, 4643.72, "'There you go. Here you go. Thank you. Very gentle. Never hurt me that.' - fragmentary handover chatter with two dead pauses inside it."),
+ ("X025", 5, 4679.16, 4685.21, "'I'm the founder of the club' is the fourth time that is said (45:31, 58:36, 1:02:13), and 'pretty, pretty, pretty close' is a stumble on the same point 'very close to my heart' makes better ten seconds later."),
 ]

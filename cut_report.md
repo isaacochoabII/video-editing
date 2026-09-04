@@ -5,11 +5,11 @@ Built from the approved **MUST+SHOULD** tiers in `decisions.csv`.
 | | |
 |---|---|
 | Output file | `PREMIUM_GOLF_TOURNAMENT_CUT.xml` |
-| Final duration | **26:17.95** (37833 frames @ 23.976 fps) |
+| Final duration | **25:44.83** (37039 frames @ 23.976 fps) |
 | Source duration | 96:43.30 (139140 frames) |
-| Kept | 27.2% of the source |
-| Segments | 69 |
-| Clip instances written | 71 video + 142 audio = 213 |
+| Kept | 26.6% of the source |
+| Segments | 74 |
+| Clip instances written | 76 video + 152 audio = 228 |
 | Sequence start timecode | 00:00:00:00 (frame 0, as in the source) |
 | Tracks | V1 + A1 + A2, no transitions, no nests |
 
@@ -22,9 +22,9 @@ Built from the approved **MUST+SHOULD** tiers in `decisions.csv`.
 | 2 | Meet the Room | 1:51.49 | 5 |
 | 3 | On the Course with Elizabeth | 4:57.92 | 14 |
 | 4 | The Judo Tent | 6:54.12 | 20 |
-| 5 | Back Nine, Dinner & Prizes | 9:12.64 | 21 |
+| 5 | Back Nine, Dinner & Prizes | 8:39.52 | 26 |
 
-| Segment length | min 5.5s, median 20.3s, mean 22.9s, max 114.4s |
+| Segment length | min 5.5s, median 20.6s, mean 20.9s, max 49.5s |
 
 ## Cut points
 
@@ -89,27 +89,32 @@ moved off the word boundary into the surrounding pause.
 | 53 | K158 | 5 | `01:10:28:18` | `01:10:50:18` | `00:17:44:04` | `00:18:06:04` | 22.02s | 120 ms | 600 ms |
 | 54 | K159 | 5 | `01:11:21:10` | `01:11:38:08` | `00:18:06:04` | `00:18:23:02` | 16.93s | 600 ms | 600 ms |
 | 55 | K160 | 5 | `01:14:20:18` | `01:14:54:22` | `00:18:23:02` | `00:18:57:06` | 34.20s | 580 ms | 20 ms |
-| 56 | K161+K162 | 5 | `01:14:57:11` | `01:16:25:09` | `00:18:57:06` | `00:20:25:04` | 88.00s | 0 ms | 400 ms |
-| 57 | K163+K164+K165+K166 | 5 | `01:16:32:20` | `01:18:27:03` | `00:20:25:04` | `00:22:19:11` | 114.41s | 20 ms | 600 ms |
-| 58 | K167 | 5 | `01:18:33:02` | `01:18:44:11` | `00:22:19:11` | `00:22:30:20` | 11.39s | 600 ms | 600 ms |
-| 59 | K168 | 5 | `01:19:07:20` | `01:19:42:08` | `00:22:30:20` | `00:23:05:08` | 34.53s | 20 ms | 60 ms |
-| 60 | K170 | 5 | `01:20:28:06` | `01:20:46:18` | `00:23:05:08` | `00:23:23:20` | 18.52s | 365 ms | 600 ms |
-| 61 | K177 | 5 | `01:23:50:01` | `01:24:11:16` | `00:23:23:20` | `00:23:45:11` | 21.65s | 20 ms | 600 ms |
-| 62 | K178+K179 | 5 | `01:24:15:21` | `01:25:07:03` | `00:23:45:11` | `00:24:36:17` | 51.30s | 600 ms | 447 ms |
-| 63 | K182 | 5 | `01:29:33:11` | `01:29:54:15` | `00:24:36:17` | `00:24:57:21` | 21.19s | 0 ms | 600 ms |
-| 64 | K183 | 5 | `01:30:28:14` | `01:30:39:08` | `00:24:57:21` | `00:25:08:15` | 10.76s | 600 ms | 300 ms |
-| 65 | K185 | 5 | `01:32:49:09` | `01:32:54:22` | `00:25:08:15` | `00:25:14:04` | 5.55s | 20 ms | 20 ms |
-| 66 | K186 | 5 | `01:33:08:02` | `01:33:17:04` | `00:25:14:04` | `00:25:23:06` | 9.09s | 600 ms | 600 ms |
-| 67 | K188 | 5 | `01:35:01:02` | `01:35:31:07` | `00:25:23:06` | `00:25:53:11` | 30.24s | 265 ms | 600 ms |
-| 68 | K190 | 5 | `01:36:06:09` | `01:36:13:02` | `00:25:53:11` | `00:26:00:04` | 6.72s | 600 ms | 600 ms |
-| 69 | K191 | 5 | `01:36:19:22` | `01:36:36:03` | `00:26:00:04` | `00:26:16:09` | 16.22s | 600 ms | 600 ms |
+| 56 | K161 | 5 | `01:14:57:11` | `01:15:46:22` | `00:18:57:06` | `00:19:46:17` | 49.51s | 0 ms | 600 ms |
+| 57 | K162 | 5 | `01:15:52:07` | `01:16:25:09` | `00:19:46:17` | `00:20:19:19` | 33.12s | 600 ms | 400 ms |
+| 58 | K163 | 5 | `01:16:32:20` | `01:16:52:10` | `00:20:19:19` | `00:20:39:09` | 19.60s | 20 ms | 600 ms |
+| 59 | K164 | 5 | `01:16:57:15` | `01:17:05:13` | `00:20:39:09` | `00:20:47:07` | 7.92s | 600 ms | 600 ms |
+| 60 | K165 | 5 | `01:17:18:11` | `01:17:54:16` | `00:20:47:07` | `00:21:23:12` | 36.24s | 600 ms | 200 ms |
+| 61 | K166 | 5 | `01:18:00:11` | `01:18:27:03` | `00:21:23:12` | `00:21:50:04` | 26.69s | 65 ms | 600 ms |
+| 62 | K167 | 5 | `01:18:33:02` | `01:18:44:11` | `00:21:50:04` | `00:22:01:13` | 11.39s | 600 ms | 600 ms |
+| 63 | K168 | 5 | `01:19:07:20` | `01:19:42:08` | `00:22:01:13` | `00:22:36:01` | 34.53s | 20 ms | 60 ms |
+| 64 | K170 | 5 | `01:20:28:06` | `01:20:46:18` | `00:22:36:01` | `00:22:54:13` | 18.52s | 365 ms | 600 ms |
+| 65 | K177 | 5 | `01:23:50:01` | `01:24:11:16` | `00:22:54:13` | `00:23:16:04` | 21.65s | 20 ms | 600 ms |
+| 66 | K178 | 5 | `01:24:15:21` | `01:24:37:21` | `00:23:16:04` | `00:23:38:04` | 22.02s | 600 ms | 600 ms |
+| 67 | K179 | 5 | `01:24:41:16` | `01:25:07:03` | `00:23:38:04` | `00:24:03:15` | 25.48s | 20 ms | 447 ms |
+| 68 | K182 | 5 | `01:29:33:11` | `01:29:54:15` | `00:24:03:15` | `00:24:24:19` | 21.19s | 0 ms | 600 ms |
+| 69 | K183 | 5 | `01:30:28:14` | `01:30:39:08` | `00:24:24:19` | `00:24:35:13` | 10.76s | 600 ms | 300 ms |
+| 70 | K185 | 5 | `01:32:49:09` | `01:32:54:22` | `00:24:35:13` | `00:24:41:02` | 5.55s | 20 ms | 20 ms |
+| 71 | K186 | 5 | `01:33:08:02` | `01:33:17:04` | `00:24:41:02` | `00:24:50:04` | 9.09s | 600 ms | 600 ms |
+| 72 | K188 | 5 | `01:35:01:02` | `01:35:31:07` | `00:24:50:04` | `00:25:20:09` | 30.24s | 265 ms | 600 ms |
+| 73 | K190 | 5 | `01:36:06:09` | `01:36:13:02` | `00:25:20:09` | `00:25:27:02` | 6.72s | 600 ms | 600 ms |
+| 74 | K191 | 5 | `01:36:19:22` | `01:36:36:03` | `00:25:27:02` | `00:25:43:07` | 16.22s | 600 ms | 600 ms |
 
 ## Notes
 
 * Cut points sit at the **midpoint of the pause** between words, not on the word 
   boundary. Target handle is 200 ms per side; `pad` above is what each cut actually got.
 
-* 6 approved row pair(s) were exactly contiguous in the source, so they were joined into one segment rather than cut and re-joined: K161+K162, K163+K164, K164+K165, K178+K179, K076+K077, K165+K166.
+* 1 approved row pair(s) were exactly contiguous in the source, so they were joined into one segment rather than cut and re-joined: K076+K077.
 
 * **6 cut point(s) have no pause at all to sit in** - a second speaker is still talking across the boundary, so there is no handle and the cut will clip them. These are the ones to check by ear first; nudging any of them means moving the approved range, so I left them where you approved them:
 
@@ -122,11 +127,12 @@ moved off the word boundary into the surrounding pause.
   | `K012` | tail | overlapping speech, 0 ms handle |
   | `K014` | tail | overlapping speech, 0 ms handle |
 
-* 40 cut point(s) sit in a pause shorter than 400 ms, so the full 200 ms handle was not available and the midpoint of the pause was used instead:
+* 41 cut point(s) sit in a pause shorter than 400 ms, so the full 200 ms handle was not available and the midpoint of the pause was used instead:
 
   | row | end | pause | handle |
   |---|---|---|---|
   | `K163` | head | 40 ms | 20 ms |
+  | `K179` | head | 40 ms | 20 ms |
   | `K030` | head | 40 ms | 20 ms |
   | `K035` | head | 40 ms | 20 ms |
   | `K076` | head | 40 ms | 20 ms |
@@ -153,7 +159,6 @@ moved off the word boundary into the surrounding pause.
   | `K044` | tail | 120 ms | 60 ms |
   | `K127` | head | 120 ms | 60 ms |
   | `K166` | head | 130 ms | 65 ms |
-  | `K165` | tail | 130 ms | 65 ms |
   | `K013` | tail | 170 ms | 85 ms |
   | `K035` | tail | 240 ms | 120 ms |
   | `K115` | tail | 240 ms | 120 ms |
@@ -166,6 +171,7 @@ moved off the word boundary into the surrounding pause.
   | `K012` | head | 280 ms | 140 ms |
   | `K156` | tail | 320 ms | 160 ms |
   | `K077` | tail | 360 ms | 180 ms |
+  | `K165` | tail | 400 ms | 200 ms |
 
 * 5 handle(s) were clamped to a source clip boundary so the cut would not flash a frame of the neighbouring camera angle: K039 tail (C5992.MP4), K087 head (C6027.MP4), K115 head (C6046.MP4), K120 tail (C6050.MP4), K129 tail (C6056.MP4).
 
