@@ -6,18 +6,18 @@ timeline order. `PREMIUM_GOLF_5_CLIPS.xml` holds five separate sequences.
 
 | # | Title | In | Out | Duration | Handle in/out |
 |---|---|---|---|---|---|
-| 1 | **Meet Our Judo Athletes** | `00:02:31:10` | `00:03:04:12` | 33.12s | 600 / 520 ms |
+| 1 | **It Started With Eight Players** | `00:03:04:12` | `00:03:39:13` | 35.08s | 520 / 280 ms |
 | 2 | **That Was Terrible** | `00:05:57:06` | `00:06:41:16` | 44.46s | 300 / 600 ms |
 | 3 | **What Our Clients Say** | `00:06:44:20` | `00:07:24:15` | 39.83s | 600 / 320 ms |
 | 4 | **They Both Come First** | `00:17:34:14` | `00:18:10:13` | 35.99s | 600 / 20 ms |
 | 5 | **Thank You, Everyone** | `00:18:31:14` | `00:19:09:08` | 37.79s | 360 / 180 ms |
 
-### 1. Meet Our Judo Athletes
-`00:02:31:10` - `00:03:04:12`  (2:32 - 3:04, 33.1s)
+### 1. It Started With Eight Players
+`00:03:04:12` - `00:03:39:13`  (3:05 - 3:39, 35.1s)
 
-> All right so I'm with the judo Toshi athletes. What's your connection with the premium group? He sponsors our judo club. And he's also the founder of our judo club. Danny. Yeah. Denny. Awesome. Thank you. So they're going to be at whole 12 and they're going t…
+> All right. So then why the golf tournament today? Well, why the golf tournament? It started with there was a convention, the FCC as something that within each year. But this year it's in Halifax. So the fire stop division asked me if we can add, like, if we c…
 
-The athletes answer 'what's your connection with the premium group' themselves - he sponsors the club and founded it - and it buttons on the coach's 'They're my athletes. They're very annoying.'
+The origin story in one unbroken answer from the CEO: a convention in Halifax, the fire stop division asking for a game with a few friends - 'we were supposed to be like eight, and it escalated into a full blown out tournament.' Gives the set an opener that explains what the event even is.
 
 ### 2. That Was Terrible
 `00:05:57:06` - `00:06:41:16`  (5:57 - 6:41, 44.5s)

@@ -3,12 +3,12 @@
 <xmeml version="4">
 	<sequence id="sequence-1">
 		<uuid>9d1f4c01-3a7b-4e52-8c16-0b5d92e7af01</uuid>
-		<duration>794</duration>
+		<duration>841</duration>
 		<rate>
 			<timebase>24</timebase>
 			<ntsc>TRUE</ntsc>
 		</rate>
-		<name>REEL 1 - Meet Our Judo Athletes</name>
+		<name>REEL 1 - It Started With Eight Players</name>
 		<media>
 			<video>
 				<format>
@@ -56,11 +56,11 @@
 							<ntsc>TRUE</ntsc>
 						</rate>
 						<start>0</start>
-						<end>794</end>
-						<in>3634</in>
-						<out>4428</out>
-						<pproTicksIn>38500718256000</pproTicksIn>
-						<pproTicksOut>46912817952000</pproTicksOut>
+						<end>841</end>
+						<in>4428</in>
+						<out>5269</out>
+						<pproTicksIn>46912817952000</pproTicksIn>
+						<pproTicksOut>55822863096000</pproTicksOut>
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
@@ -166,11 +166,11 @@
 							<ntsc>TRUE</ntsc>
 						</rate>
 						<start>0</start>
-						<end>794</end>
-						<in>3634</in>
-						<out>4428</out>
-						<pproTicksIn>38500718256000</pproTicksIn>
-						<pproTicksOut>46912817952000</pproTicksOut>
+						<end>841</end>
+						<in>4428</in>
+						<out>5269</out>
+						<pproTicksIn>46912817952000</pproTicksIn>
+						<pproTicksOut>55822863096000</pproTicksOut>
 						<file id="file-1" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
@@ -212,11 +212,11 @@
 							<ntsc>TRUE</ntsc>
 						</rate>
 						<start>0</start>
-						<end>794</end>
-						<in>3634</in>
-						<out>4428</out>
-						<pproTicksIn>38500718256000</pproTicksIn>
-						<pproTicksOut>46912817952000</pproTicksOut>
+						<end>841</end>
+						<in>4428</in>
+						<out>5269</out>
+						<pproTicksIn>46912817952000</pproTicksIn>
+						<pproTicksOut>55822863096000</pproTicksOut>
 						<file id="file-1" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>

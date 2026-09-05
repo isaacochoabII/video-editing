@@ -24,8 +24,8 @@ OUT = "PREMIUM_GOLF_5_CLIPS.xml"
 
 # (title, in_s, out_s, why)
 CLIPS = [
-    ("Meet Our Judo Athletes", 152.16, 184.16,
-     "The athletes answer 'what's your connection with the premium group' themselves - he sponsors the club and founded it - and it buttons on the coach's 'They're my athletes. They're very annoying.'"),
+    ("It Started With Eight Players", 185.20, 219.48,
+     "The origin story in one unbroken answer from the CEO: a convention in Halifax, the fire stop division asking for a game with a few friends - 'we were supposed to be like eight, and it escalated into a full blown out tournament.' Gives the set an opener that explains what the event even is."),
     ("That Was Terrible", 357.92, 401.48,
      "A complete comic arc in one take: 'You're all looking at me, it's just stressing me out' - the stretch, 'I'm also like very not flexible' - the swing - 'That was terrible.' / 'But you hit it.'"),
     ("What Our Clients Say", 405.84, 444.76,
