@@ -7,8 +7,8 @@ timeline order. `PREMIUM_GOLF_5_CLIPS.xml` holds five separate sequences.
 | # | Title | In | Out | Duration | Handle in/out |
 |---|---|---|---|---|---|
 | 1 | **It Started With Eight Players** | `00:03:04:12` | `00:03:39:13` | 35.08s | 520 / 280 ms |
-| 2 | **That Was Terrible** | `00:05:57:06` | `00:06:41:16` | 44.46s | 300 / 600 ms |
-| 3 | **What Our Clients Say** | `00:06:44:20` | `00:07:24:15` | 39.83s | 600 / 320 ms |
+| 2 | **What Our Clients Say** | `00:06:44:20` | `00:07:24:15` | 39.83s | 600 / 320 ms |
+| 3 | **Get Thrown, Win Tickets** | `00:09:05:21` | `00:09:42:12` | 36.66s | 160 / 320 ms |
 | 4 | **They Both Come First** | `00:17:34:14` | `00:18:10:13` | 35.99s | 600 / 20 ms |
 | 5 | **Thank You, Everyone** | `00:18:31:14` | `00:19:09:08` | 37.79s | 360 / 180 ms |
 
@@ -19,19 +19,19 @@ timeline order. `PREMIUM_GOLF_5_CLIPS.xml` holds five separate sequences.
 
 The origin story in one unbroken answer from the CEO: a convention in Halifax, the fire stop division asking for a game with a few friends - 'we were supposed to be like eight, and it escalated into a full blown out tournament.' Gives the set an opener that explains what the event even is.
 
-### 2. That Was Terrible
-`00:05:57:06` - `00:06:41:16`  (5:57 - 6:41, 44.5s)
-
-> All right. You're all looking at me. It's just stressing me out. I'm going to stretch first. One second. Oh. Yes, of course I am. Yeah. I'm also like very not flexible. So we will see. This is my first I haven't I don't do this okay. Is that good. Is that a l…
-
-A complete comic arc in one take: 'You're all looking at me, it's just stressing me out' - the stretch, 'I'm also like very not flexible' - the swing - 'That was terrible.' / 'But you hit it.'
-
-### 3. What Our Clients Say
+### 2. What Our Clients Say
 `00:06:44:20` - `00:07:24:15`  (6:45 - 7:24, 39.8s)
 
 > Pierre Karam with Cedar Mount developments. We we've done two projects with premium so far. And the most recent one finished two years ago. We were working along with Danny. He's commendable and respectful guy. And the whole team was great through all the pro…
 
 Pierre Karam of Cedar Mount on two projects with Premium - 'he's a commendable and respectful guy', 'they delivered even with whatever hurdles came their way' - then the modesty laugh.
+
+### 3. Get Thrown, Win Tickets
+`00:09:05:21` - `00:09:42:12`  (9:06 - 9:42, 36.7s)
+
+> Oh yeah. So we have the judo Toshi team has a booth at the the golf tournament. So here if you get thrown by one of the girls, you get three tickets for the raffle. And if you get thrown by the panda, I think it's for. Yeah. For tickets. Yeah. So if you get t…
+
+The judo team's tent: three raffle tickets if one of the girls throws you, four if the panda does - 'and the chiropractor' - closing on 'she's actually a national champion'. The moment the most guests actually took part in.
 
 ### 4. They Both Come First
 `00:17:34:14` - `00:18:10:13`  (17:36 - 18:11, 36.0s)
@@ -49,5 +49,6 @@ The closing thanks - 'I try to make everybody the best version of themselves eve
 
 ## Note
 
+* Clip 3's in point sits in a 320 ms pause, so the handle is 160 ms rather than the usual 200 ms.
 * Clip 4's out point sits in a 40 ms pause, so the handle is 20 ms rather than the usual 200 ms.
 * Clip 5's out point sits in a 360 ms pause, so the handle is 180 ms rather than the usual 200 ms.

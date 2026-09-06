@@ -261,12 +261,12 @@
 	</sequence>
 	<sequence id="sequence-2">
 		<uuid>9d1f4c02-3a7b-4e52-8c16-0b5d92e7af02</uuid>
-		<duration>1066</duration>
+		<duration>955</duration>
 		<rate>
 			<timebase>24</timebase>
 			<ntsc>TRUE</ntsc>
 		</rate>
-		<name>REEL 2 - That Was Terrible</name>
+		<name>REEL 2 - What Our Clients Say</name>
 		<media>
 			<video>
 				<format>
@@ -314,11 +314,11 @@
 							<ntsc>TRUE</ntsc>
 						</rate>
 						<start>0</start>
-						<end>1066</end>
-						<in>8574</in>
-						<out>9640</out>
-						<pproTicksIn>90837963216000</pproTicksIn>
-						<pproTicksOut>102131789760000</pproTicksOut>
+						<end>955</end>
+						<in>9716</in>
+						<out>10671</out>
+						<pproTicksIn>102936978144000</pproTicksIn>
+						<pproTicksOut>113054805864000</pproTicksOut>
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
@@ -385,11 +385,11 @@
 							<ntsc>TRUE</ntsc>
 						</rate>
 						<start>0</start>
-						<end>1066</end>
-						<in>8574</in>
-						<out>9640</out>
-						<pproTicksIn>90837963216000</pproTicksIn>
-						<pproTicksOut>102131789760000</pproTicksOut>
+						<end>955</end>
+						<in>9716</in>
+						<out>10671</out>
+						<pproTicksIn>102936978144000</pproTicksIn>
+						<pproTicksOut>113054805864000</pproTicksOut>
 						<file id="file-1" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
@@ -431,11 +431,11 @@
 							<ntsc>TRUE</ntsc>
 						</rate>
 						<start>0</start>
-						<end>1066</end>
-						<in>8574</in>
-						<out>9640</out>
-						<pproTicksIn>90837963216000</pproTicksIn>
-						<pproTicksOut>102131789760000</pproTicksOut>
+						<end>955</end>
+						<in>9716</in>
+						<out>10671</out>
+						<pproTicksIn>102936978144000</pproTicksIn>
+						<pproTicksOut>113054805864000</pproTicksOut>
 						<file id="file-1" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
@@ -480,12 +480,12 @@
 	</sequence>
 	<sequence id="sequence-3">
 		<uuid>9d1f4c03-3a7b-4e52-8c16-0b5d92e7af03</uuid>
-		<duration>955</duration>
+		<duration>879</duration>
 		<rate>
 			<timebase>24</timebase>
 			<ntsc>TRUE</ntsc>
 		</rate>
-		<name>REEL 3 - What Our Clients Say</name>
+		<name>REEL 3 - Get Thrown, Win Tickets</name>
 		<media>
 			<video>
 				<format>
@@ -533,11 +533,11 @@
 							<ntsc>TRUE</ntsc>
 						</rate>
 						<start>0</start>
-						<end>955</end>
-						<in>9716</in>
-						<out>10671</out>
-						<pproTicksIn>102936978144000</pproTicksIn>
-						<pproTicksOut>113054805864000</pproTicksOut>
+						<end>879</end>
+						<in>13101</in>
+						<out>13980</out>
+						<pproTicksIn>138799644984000</pproTicksIn>
+						<pproTicksOut>148112284320000</pproTicksOut>
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
@@ -604,11 +604,11 @@
 							<ntsc>TRUE</ntsc>
 						</rate>
 						<start>0</start>
-						<end>955</end>
-						<in>9716</in>
-						<out>10671</out>
-						<pproTicksIn>102936978144000</pproTicksIn>
-						<pproTicksOut>113054805864000</pproTicksOut>
+						<end>879</end>
+						<in>13101</in>
+						<out>13980</out>
+						<pproTicksIn>138799644984000</pproTicksIn>
+						<pproTicksOut>148112284320000</pproTicksOut>
 						<file id="file-1" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
@@ -650,11 +650,11 @@
 							<ntsc>TRUE</ntsc>
 						</rate>
 						<start>0</start>
-						<end>955</end>
-						<in>9716</in>
-						<out>10671</out>
-						<pproTicksIn>102936978144000</pproTicksIn>
-						<pproTicksOut>113054805864000</pproTicksOut>
+						<end>879</end>
+						<in>13101</in>
+						<out>13980</out>
+						<pproTicksIn>138799644984000</pproTicksIn>
+						<pproTicksOut>148112284320000</pproTicksOut>
 						<file id="file-1" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>

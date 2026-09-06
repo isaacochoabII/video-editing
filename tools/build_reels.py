@@ -26,10 +26,10 @@ OUT = "PREMIUM_GOLF_5_CLIPS.xml"
 CLIPS = [
     ("It Started With Eight Players", 185.20, 219.48,
      "The origin story in one unbroken answer from the CEO: a convention in Halifax, the fire stop division asking for a game with a few friends - 'we were supposed to be like eight, and it escalated into a full blown out tournament.' Gives the set an opener that explains what the event even is."),
-    ("That Was Terrible", 357.92, 401.48,
-     "A complete comic arc in one take: 'You're all looking at me, it's just stressing me out' - the stretch, 'I'm also like very not flexible' - the swing - 'That was terrible.' / 'But you hit it.'"),
     ("What Our Clients Say", 405.84, 444.76,
      "Pierre Karam of Cedar Mount on two projects with Premium - 'he's a commendable and respectful guy', 'they delivered even with whatever hurdles came their way' - then the modesty laugh."),
+    ("Get Thrown, Win Tickets", 546.60, 582.76,
+     "The judo team's tent: three raffle tickets if one of the girls throws you, four if the panda does - 'and the chiropractor' - closing on 'she's actually a national champion'. The moment the most guests actually took part in."),
     ("They Both Come First", 1056.24, 1091.60,
      "Clients or employees: 'If I have 100 clients, no employees, I can't do nothing. If I have 100 employees with no clients, I can't do nothing. So for me, they both come first.'"),
     ("Thank You, Everyone", 1113.04, 1150.32,
