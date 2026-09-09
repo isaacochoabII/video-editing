@@ -1,234 +1,172 @@
-# Social captions — Premium Group golf tournament reels
+# Social captions — Premium Group reels
 
-Six reels. For each: a **LinkedIn** caption (your main audience — clients, suppliers, GCs),
-a shorter **Instagram / Facebook** variant, and hashtags.
-
-**Check these spellings before posting** — they come from an automatic transcript and it got
-several of them wrong across takes:
-
-| In the transcript | Almost certainly | Note |
-|---|---|---|
-| Danny / Denny | ? | your founder — pick one and stay consistent |
-| Jessica Klink / Clinch / Flynn | **Jessica Klimkait** | Olympic bronze + world champion fits exactly, but confirm |
-| Skn (Montreal) | ? | the acquired company's real name |
-| Pierre Karam, Cedar Mount Developments | ? | confirm with him before tagging |
-| FCC / FCI | **FCIA**? | the firestop association — confirm |
-| Tom Bishop, Mike Masal, Brian Hum, Matt Joyce | ? | the winning team — confirm before tagging |
-
-Tag people rather than just naming them where you can. It roughly doubles reach on LinkedIn.
+Short. Hook in line one. Three options each — pick one, don't stack them.
 
 ---
 
 ## REEL 1 — It Started With Eight Players
 
-**LinkedIn**
-
+**A**
 ```
-It was supposed to be eight people.
+We booked a round of golf for 8 people.
+It turned into a whole tournament 🏌️
 
-The convention week was in Halifax, and our fire stop division asked if we could
-get a few friends from around the country out for a round of golf. We said sure,
-go ahead.
-
-Then it came back as a tournament.
-
-Which is honestly how most things go here. We start something small, push comes
-to shove, and it grows — caulking, fire stopping, fireproofing, drywall. Six
-provinces later, same pattern.
-
-Here's [FOUNDER] telling it in his own words.
+Denis explains 👇
 ```
 
-**Instagram / Facebook**
-
+**B**
 ```
-It was supposed to be eight people 😅
-Then it became a whole tournament.
+"We were supposed to be like eight."
 
-How our first golf day actually started 👇
+Yeah, that didn't happen.
 ```
 
-`#PremiumGroup #Construction #FireStopping #Subcontractor #AtlanticCanada #GolfTournament`
+**C**
+```
+How a casual game with a few friends
+became our first ever golf tournament ⛳
+```
+
+`#PremiumGroup #Construction #GolfTournament #AtlanticCanada`
 
 ---
 
 ## REEL 2 — What Our Clients Say
 
-**LinkedIn**
+**A**
+```
+We asked a client what we're actually like to work with.
+No script. Just a camera and a question 🎥
+```
 
+**B**
 ```
 "They delivered even with whatever hurdles came their way."
 
-That's Pierre Karam of Cedar Mount Developments. Two projects with us, the most
-recent wrapped a couple of years back.
-
-We didn't hand him a script. We walked up with a camera between shots and asked.
-
-That's the real point of a day like this — not the golf. The people who've
-worked with us showing up to spend a day with us.
-
-Thank you, Pierre.
+Thanks Pierre 🤝
 ```
 
-**Instagram / Facebook**
-
+**C**
 ```
-We asked a client what it's actually like working with us.
-No script, no prep — just a camera between shots. 🎥
-
-Thanks Pierre 🙏
+Two projects together and he still shows up
+to play golf with us. That's the win 🤍
 ```
 
-`#PremiumGroup #ClientAppreciation #Construction #Drywall #Fireproofing #BuiltOnRelationships`
+`#PremiumGroup #ClientAppreciation #Construction #BuiltOnTrust`
 
 ---
 
 ## REEL 3 — Get Thrown, Win Tickets
 
-**LinkedIn**
-
+**A**
 ```
-Three raffle tickets if one of the girls throws you. Four if the panda does.
-
-Hole 12 belonged to Otoshi Judo Club — the club our founder started, and one of
-the clubs Premium sponsors. The deal was simple: get thrown, get tickets, get
-back up.
-
-A lot of people took that deal. Every team did at least one. Nobody got hurt.
-
-And yes — she's a national champion. You never stood a chance.
-```
-
-**Instagram / Facebook**
-
-```
-Get thrown by a judo athlete → 3 raffle tickets
+Get thrown → 3 raffle tickets
 Get thrown by the panda → 4 🐼
 
-She's a national champion, by the way. Sound on 🥋
+She's a national champion btw 🥋
 ```
 
-`#PremiumGroup #Judo #OtoshiJudoClub #JudoCanada #GolfTournament #CommunitySupport`
+**B**
+```
+Every single team did it.
+Nobody got hurt. Probably 😅
+```
+
+**C**
+```
+Hole 12 hit different ⛳🥋
+```
+
+`#PremiumGroup #Judo #OtoshiJudoClub #GolfTournament`
 
 ---
 
 ## REEL 4 — They Both Come First
 
-**LinkedIn**
-
+**A**
 ```
-"If I have 100 clients and no employees, I can't do nothing. If I have 100
-employees and no clients, I can't do nothing."
+"Clients or employees — which matters more?"
 
-Someone asked our founder which one matters more.
-
-He wouldn't pick. Not as a dodge — listen to how he gets there.
-
-"So for me, they both come first."
+Denis refused to pick 👇
 ```
 
-**Instagram / Facebook**
-
+**B**
 ```
-"Which matters more — your clients or your employees?"
+"If I have 100 clients and no employees, I can't do nothing."
 
-He refused to pick. And the reason is the good part 👇
+30 seconds that say a lot about how we run things.
 ```
 
-`#PremiumGroup #Leadership #CompanyCulture #Construction #PeopleFirst`
+**C**
+```
+Asked our founder to choose.
+He said both. And meant it 🤍
+```
+
+`#PremiumGroup #Leadership #PeopleFirst #Construction`
 
 ---
 
 ## REEL 5 — Thank You, Everyone
 
-**LinkedIn**
-
-```
-"I try to make everybody the best version of themselves every day."
-
-The closing words from our first ever golf tournament — to our clients, our
-suppliers, our insurance broker, and everyone on the team who pulled it
-together at short notice when the format changed on us that morning.
-
-"Nice course, nice weather and great people."
-
-Thank you, all of you. Same time next year.
-```
-
-**Instagram / Facebook**
-
+**A**
 ```
 "Nice course, nice weather and great people."
 
-That's a wrap on our first golf tournament ⛳
-Thank you to everyone who came out 🙏
+That's a wrap on our first golf tournament ⛳🤍
 ```
 
-`#PremiumGroup #ThankYou #GolfTournament #Construction #AtlanticCanada #TeamPremium`
+**B**
+```
+To our clients, our suppliers and our team —
+thank you. Same time next year 🙏
+```
+
+**C**
+```
+First one done. Already planning the next 👀⛳
+```
+
+`#PremiumGroup #ThankYou #GolfTournament #TeamPremium`
 
 ---
 
-## REEL 6 — Nouvelle division au Québec (French)
+## REEL 6 — Nouvelle division au Québec 🇨🇦
 
-**LinkedIn — FR**
-
-```
-Nouvelle division coupe-feu au Québec.
-
-Ça a pris tout un hiver : un plan d'affaires complet, une vraie stratégie, une
-étude de marché. « Puis on a fait nos devoirs. »
-
-Étienne Laliberté, directeur des opérations, division coupe-feu Québec. L'équipe
-de Montréal travaille déjà sur des projets, et il y en a d'autres à Québec dont
-il ne peut pas encore parler.
-
-Son golf, par contre : « C'est Happy Gilmore, mais en pas bon. »
-
-Bienvenue dans l'équipe, Étienne.
-```
-
-**LinkedIn — EN** (if you post a second version for the Atlantic audience)
-
-```
-A new firestopping division in Quebec.
-
-It took a whole winter — a full business plan, a real strategy, a market study.
-"And we did our homework."
-
-Étienne Laliberté is Operations Director for the new Quebec firestopping
-division. The Montreal team is already on site, with projects in Quebec City and
-more he can't talk about yet.
-
-His golf game, on the other hand: "It's Happy Gilmore, but the bad version."
-
-Welcome aboard, Étienne.
-```
-
-**Instagram / Facebook — FR**
-
+**A — FR**
 ```
 Nouvelle division coupe-feu au Québec 🇨🇦
-L'équipe de Montréal est déjà sur des projets.
 
-Son golf ? « Happy Gilmore, mais en pas bon » 😅
+Son golf par contre… « Happy Gilmore, mais en pas bon » 😅
 ```
 
-`#PremiumGroup #CoupeFeu #FireStopping #Québec #Montréal #Construction #NouvelleDivision`
+**B — FR**
+```
+« Puis on a fait nos devoirs. »
+
+Un hiver de préparation. L'équipe de Montréal
+est déjà sur des projets 🔥
+```
+
+**C — EN** (for the Atlantic audience)
+```
+New firestopping division in Quebec 🇨🇦
+Montreal team is already on site.
+
+His golf game? "Happy Gilmore, but the bad version" 😅
+```
+
+`#PremiumGroup #CoupeFeu #FireStopping #Québec #Montréal`
 
 ---
 
-## Posting notes
+## Two things
 
-- **Burn in English subtitles on Reel 6.** Most of your Atlantic audience won't follow spoken
-  French, and most people watch on mute anyway. Subtitle text is in
-  `FRENCH_REEL_translation.md`.
-- **Subtitle all six**, honestly — the majority of reel views happen with sound off.
-- **Order to post in:** 1 (what the event was) → 3 (the fun one, widest reach) → 2 (client
-  voice) → 6 (the Quebec news) → 4 → 5 (close the series out). Spread over two to three weeks
-  rather than dumping them in a week.
-- **Reel 6 is news, not just a reel.** It's the one worth boosting, and worth a matching
-  post on the company page in both languages.
-- **Reels 4 and 5 are from the same speech.** Don't post them back to back or it reads
-  like one clip split in two — leave at least a few days and another reel between them.
-- The first line is what people see before "…more". Every caption above front-loads the
-  hook in line one on purpose — if you trim, trim from the bottom.
+- **Subtitle all six.** Most reel views are on mute, and reel 6 is unwatchable for the
+  Atlantic audience without them. Subtitle text is in `FRENCH_REEL_translation.md`.
+- **Don't post 4 and 5 back to back** — same speech, same shot, reads as one clip split in
+  two. Leave another reel between them.
+
+**Names to confirm before posting:** Pierre Karam / Cedar Mount Developments, the judoka
+(transcript gave Klink / Clinch / Flynn — Olympic bronze + world champion points to Jessica
+Klimkait), the Montreal company ("Skn"), and the winning team's four names.
