@@ -22,7 +22,7 @@ provinces.
 #PremiumGroup #Construction #FireStopping #Caulking #Drywall #GolfTournament #AtlanticCanada
 ```
 
-**Short alt** — `"We were supposed to be like eight." Yeah, that didn't happen 🏌️ The story behind the first ever Premium Group golf tournament 👇`
+**Short alt:** `"We were supposed to be like eight." Yeah, that didn't happen 🏌️ The story behind the first ever Premium Group golf tournament 👇`
 
 ---
 
@@ -43,7 +43,7 @@ That means more to us than anything on the scorecard. Thank you, Pierre 🤝
 #PremiumGroup #ClientAppreciation #Construction #Subcontractor #AtlanticCanada
 ```
 
-**Short alt** — `Two projects with Premium Group, and he still showed up to golf with us. So we asked him on camera what we're really like to work with. No script 🎥🤍`
+**Short alt:** `Two projects with Premium Group, and he still showed up to golf with us. So we asked him on camera what we're really like to work with. No script 🎥🤍`
 
 ---
 
@@ -64,7 +64,7 @@ looks like on a golf course.
 #PremiumGroup #Judo #OtoshiJudoClub #JudoCanada #GolfTournament #CommunitySupport
 ```
 
-**Short alt** — `3 tickets if a judo athlete throws you. 4 if it's the panda 🐼 Hole 12 at the Premium Group golf tournament went exactly how you'd expect 🥋`
+**Short alt:** `3 tickets if a judo athlete throws you. 4 if it's the panda 🐼 Hole 12 at the Premium Group golf tournament went exactly how you'd expect 🥋`
 
 ---
 
@@ -84,7 +84,7 @@ fire stopping, fireproofing and drywall across six provinces 🤍
 #PremiumGroup #Leadership #PeopleFirst #CompanyCulture #Construction
 ```
 
-**Short alt** — `We asked our founder to choose between clients and employees. He refused, and the reason is the whole philosophy behind Premium Group 🤍`
+**Short alt:** `We asked our founder to choose between clients and employees. He refused, and the reason is the whole philosophy behind Premium Group 🤍`
 
 ---
 
@@ -104,7 +104,7 @@ We called it our first and hopefully not our last. We meant it. See you next yea
 #PremiumGroup #GolfTournament #ThankYou #Construction #AtlanticCanada #TeamPremium
 ```
 
-**Short alt** — `"Nice course, nice weather and great people." That's a wrap on the first ever Premium Group golf tournament ⛳ Thank you all. Same time next year 🤍`
+**Short alt:** `"Nice course, nice weather and great people." That's a wrap on the first ever Premium Group golf tournament ⛳ Thank you all. Same time next year 🤍`
 
 ---
 
