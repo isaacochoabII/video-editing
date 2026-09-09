@@ -1,172 +1,167 @@
 # Social captions — Premium Group reels
 
-Short. Hook in line one. Three options each — pick one, don't stack them.
+One full caption per reel, plus a short alt if you want something lighter that day.
+Hook in line one, Premium Group named in every post, hashtags at the bottom.
 
 ---
 
 ## REEL 1 — It Started With Eight Players
 
-**A**
 ```
-We booked a round of golf for 8 people.
-It turned into a whole tournament 🏌️
+We booked a round of golf for 8 people. It turned into a whole tournament 🏌️
 
-Denis explains 👇
-```
+The plan was simple — a few friends from around the country, one round, nothing
+fancy. Then everyone wanted in, and our first ever Premium Group golf tournament
+was born.
 
-**B**
-```
-"We were supposed to be like eight."
+Denis tells it better than we can 👇
 
-Yeah, that didn't happen.
-```
+Premium Group — caulking, fire stopping, fireproofing and drywall, now across six
+provinces.
 
-**C**
-```
-How a casual game with a few friends
-became our first ever golf tournament ⛳
+#PremiumGroup #Construction #FireStopping #Caulking #Drywall #GolfTournament #AtlanticCanada
 ```
 
-`#PremiumGroup #Construction #GolfTournament #AtlanticCanada`
+**Short alt** — `"We were supposed to be like eight." Yeah… that didn't happen 🏌️ The story behind the first ever Premium Group golf tournament 👇`
 
 ---
 
 ## REEL 2 — What Our Clients Say
 
-**A**
 ```
-We asked a client what we're actually like to work with.
-No script. Just a camera and a question 🎥
+We handed a client the mic and didn't give him a script 🎥
+
+Pierre Karam of Cedar Mount Developments has done two projects with Premium
+Group. We walked up between shots and asked him what we're actually like to work
+with.
+
+"He's a commendable and respectful guy, and the whole team was great through all
+the projects. They delivered even with whatever hurdles came their way."
+
+That means more to us than anything on the scorecard. Thank you, Pierre 🤝
+
+#PremiumGroup #ClientAppreciation #Construction #Subcontractor #AtlanticCanada
 ```
 
-**B**
-```
-"They delivered even with whatever hurdles came their way."
-
-Thanks Pierre 🤝
-```
-
-**C**
-```
-Two projects together and he still shows up
-to play golf with us. That's the win 🤍
-```
-
-`#PremiumGroup #ClientAppreciation #Construction #BuiltOnTrust`
+**Short alt** — `Two projects with Premium Group, and he still showed up to golf with us. We asked him on camera what we're really like to work with — no script 🎥🤍`
 
 ---
 
 ## REEL 3 — Get Thrown, Win Tickets
 
-**A**
 ```
-Get thrown → 3 raffle tickets
-Get thrown by the panda → 4 🐼
+Get thrown → 3 raffle tickets. Get thrown by the panda → 4 🐼
 
-She's a national champion btw 🥋
-```
+Hole 12 belonged to Otoshi Judo Club — the club our founder Denis started, and
+one of the clubs Premium Group sponsors alongside Judo Canada and the national
+team.
 
-**B**
-```
-Every single team did it.
-Nobody got hurt. Probably 😅
-```
+Every single team took the challenge. Nobody got hurt. And yes — she's a national
+champion 🥋
 
-**C**
-```
-Hole 12 hit different ⛳🥋
+Supporting judo in this country is a big part of who we are. This is what it
+looks like on a golf course.
+
+#PremiumGroup #Judo #OtoshiJudoClub #JudoCanada #GolfTournament #CommunitySupport
 ```
 
-`#PremiumGroup #Judo #OtoshiJudoClub #GolfTournament`
+**Short alt** — `3 tickets if a judo athlete throws you. 4 if it's the panda 🐼 Hole 12 at the Premium Group golf tournament went exactly how you'd expect 🥋`
 
 ---
 
 ## REEL 4 — They Both Come First
 
-**A**
 ```
-"Clients or employees — which matters more?"
+"Clients or employees — which one matters more?"
 
-Denis refused to pick 👇
-```
+Denis wouldn't pick.
 
-**B**
-```
-"If I have 100 clients and no employees, I can't do nothing."
+"If I have 100 clients and no employees, I can't do nothing. If I have 100
+employees and no clients, I can't do nothing. So for me, they both come first."
 
-30 seconds that say a lot about how we run things.
-```
+Thirty seconds that explain how Premium Group went from one division to caulking,
+fire stopping, fireproofing and drywall across six provinces 🤍
 
-**C**
-```
-Asked our founder to choose.
-He said both. And meant it 🤍
+#PremiumGroup #Leadership #PeopleFirst #CompanyCulture #Construction
 ```
 
-`#PremiumGroup #Leadership #PeopleFirst #Construction`
+**Short alt** — `We asked our founder to choose between clients and employees. He refused — and the reason is the whole philosophy behind Premium Group 🤍`
 
 ---
 
 ## REEL 5 — Thank You, Everyone
 
-**A**
 ```
-"Nice course, nice weather and great people."
+"Nice course, nice weather and great people." ⛳
 
-That's a wrap on our first golf tournament ⛳🤍
-```
+That's a wrap on the first ever Premium Group golf tournament.
 
-**B**
-```
-To our clients, our suppliers and our team —
-thank you. Same time next year 🙏
-```
+Thank you to our clients, our suppliers, our partners, and the team who pulled the
+whole day together when the format changed on us that morning. And to everyone who
+got thrown by a judo athlete for a couple of raffle tickets 🥋
 
-**C**
-```
-First one done. Already planning the next 👀⛳
+We called it our first and hopefully not our last. We meant it — see you next year 🤍
+
+#PremiumGroup #GolfTournament #ThankYou #Construction #AtlanticCanada #TeamPremium
 ```
 
-`#PremiumGroup #ThankYou #GolfTournament #TeamPremium`
+**Short alt** — `"Nice course, nice weather and great people." That's a wrap on the first ever Premium Group golf tournament ⛳ Thank you all — same time next year 🤍`
 
 ---
 
 ## REEL 6 — Nouvelle division au Québec 🇨🇦
 
-**A — FR**
 ```
 Nouvelle division coupe-feu au Québec 🇨🇦
 
-Son golf par contre… « Happy Gilmore, mais en pas bon » 😅
+Ça a pris tout un hiver — plan d'affaires, stratégie, étude de marché. « Puis on a
+fait nos devoirs. »
+
+Étienne Laliberté prend les commandes comme directeur des opérations. L'équipe de
+Montréal travaille déjà sur des projets, et il y en a d'autres à Québec dont il ne
+peut pas encore parler 👀
+
+Premium Group — calfeutrage, coupe-feu, ignifugation et gypse, maintenant dans six
+provinces.
+
+Son golf par contre… « C'est Happy Gilmore, mais en pas bon » 😅
+
+Bienvenue dans l'équipe, Étienne 🤍
+
+#PremiumGroup #CoupeFeu #Calfeutrage #Québec #Montréal #Construction #NouvelleDivision
 ```
 
-**B — FR**
-```
-« Puis on a fait nos devoirs. »
+**English version** for the Atlantic audience:
 
-Un hiver de préparation. L'équipe de Montréal
-est déjà sur des projets 🔥
-```
-
-**C — EN** (for the Atlantic audience)
 ```
 New firestopping division in Quebec 🇨🇦
-Montreal team is already on site.
 
-His golf game? "Happy Gilmore, but the bad version" 😅
+It took a whole winter — a full business plan, a real strategy, a market study.
+"And we did our homework."
+
+Étienne Laliberté takes over as Operations Director. The Montreal team is already
+on projects, with more in Quebec City he can't talk about yet 👀
+
+Premium Group — caulking, fire stopping, fireproofing and drywall, now across six
+provinces.
+
+His golf game, on the other hand: "It's Happy Gilmore, but the bad version" 😅
+
+Welcome aboard, Étienne 🤍
+
+#PremiumGroup #FireStopping #Quebec #Montreal #Construction #NewDivision
 ```
-
-`#PremiumGroup #CoupeFeu #FireStopping #Québec #Montréal`
 
 ---
 
-## Two things
+## Before posting
 
 - **Subtitle all six.** Most reel views are on mute, and reel 6 is unwatchable for the
   Atlantic audience without them. Subtitle text is in `FRENCH_REEL_translation.md`.
-- **Don't post 4 and 5 back to back** — same speech, same shot, reads as one clip split in
-  two. Leave another reel between them.
+- **Don't run 4 and 5 back to back** — same speech, same shot, reads as one clip split in two.
+- **Tag people rather than just naming them** — Pierre, Étienne, the judo club, the winning
+  team. It roughly doubles reach on LinkedIn.
 
-**Names to confirm before posting:** Pierre Karam / Cedar Mount Developments, the judoka
-(transcript gave Klink / Clinch / Flynn — Olympic bronze + world champion points to Jessica
-Klimkait), the Montreal company ("Skn"), and the winning team's four names.
+**Names to confirm:** Pierre Karam / Cedar Mount Developments, the judoka (transcript gave
+Klink / Clinch / Flynn — Olympic bronze plus world champion points to Jessica Klimkait), the
+acquired Montreal company ("Skn"), and the winning team's four names.
